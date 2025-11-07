@@ -68,5 +68,5 @@ python cli.py --mode basic
 Snow animation mode:
 
 bash
-Копировать код
+
 python cli.py --mode snow
